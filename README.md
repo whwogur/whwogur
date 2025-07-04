@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
 <img src="https://img.shields.io/badge/wireshark-%23549bff.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
+<img src="https://nmap.org/images/sitelogo.png" width="25" height="28"/><img src="https://img.shields.io/badge/NPCAP-2D0F4B?style=for-the-badge&logoColor=000000"/>
 </div>

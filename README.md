@@ -1,5 +1,7 @@
-<div align="left">
+<img width="124" height="116" alt="rollsafe" src="https://github.com/user-attachments/assets/5d4f3c56-13d7-4cb5-9bc1-70533a540fc8"/>
 
+<div align="left">
+  
 ### Languages
 <img src="https://img.shields.io/badge/C++17-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -18,5 +20,5 @@
 <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
 <img src="https://img.shields.io/badge/wireshark-%23549bff.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://nmap.org/images/sitelogo.png" width="25" height="28"/><img src="https://img.shields.io/badge/NPCAP-2D0F4B?style=for-the-badge&logoColor=000000"/>
+<img src="https://nmap.org/images/sitelogo.png" height="28"/><img src="https://img.shields.io/badge/NPCAP-2D0F4B?style=for-the-badge&logoColor=000000"/>
 </div>

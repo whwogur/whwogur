@@ -1,5 +1,7 @@
 <div align="left">
-  <img width="220" height="220" alt="rollsafe" src="https://github.com/user-attachments/assets/6fe910ec-3490-485c-9f43-bd36fd5b2542" align="left" style="margin-right:10px;"/>
+  <img width="256" height="256" alt="AdventurerDoggo" src="https://github.com/user-attachments/assets/4a555fb2-d97e-49ea-aace-efeade7a49fc" align="left" style="margin-right:10px;"/>
+  
+
 
   <p>
     <h3>Languages</h3>
@@ -11,16 +13,17 @@
   
   <p>
     <h3>Tools & Platforms</h3>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-    <img src="https://techcrunch.com/wp-content/uploads/2015/03/visual-studio-logo.png?resize=1097,617" width="51"/>
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Directxxiiultimate.png/revision/latest/scale-to-width-down/48?cb=20200728180301" width="27"/><img src="https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logoColor=black"/>
-    <img src="https://img.shields.io/badge/cuda-ffffff.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/>
+    <img src="https://img.shields.io/badge/aseprite-%23FFFFFF.svg?style=for-the-badge&logo=aseprite&logoColor=red"/>
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-  <br>
-    <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
     <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
+    <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Directxxiiultimate.png/revision/latest/scale-to-width-down/48?cb=20200728180301" width="28"/><img src="https://img.shields.io/badge/DirectX-000000?style=for-the-badge&logoColor=black"/>
+    <img src="https://img.shields.io/badge/cuda-ffffff.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/>
+  <br>
     <img src="https://img.shields.io/badge/wireshark-%23549bff.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
     <img src="https://nmap.org/images/sitelogo.png" height="28"/><img src="https://img.shields.io/badge/NPCAP-2D0F4B?style=for-the-badge&logoColor=000000"/>
   </p>
